@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class>
+
+<student number="90234555" code="1515x">
+    <student_id> 566</student_id>
+    <first_name> Alex </first_name>
+    <last_name> McKenna </last_name>
+    <email> alex.m@school.org </email>
+</student>
+
+<student number="90654777" code="1515x">
+    <student_id> 567 </student_id>
+    <first_name> Devon </first_name>
+    <last_name> Stephens </last_name>
+    <email> devon.s@school.org </email>
+</student>
+
+<student number="90121443" code="1515x">
+    <student_id> 568 </student_id>
+    <first_name> Cole</first_name>
+    <last_name> Moir</last_name>
+    <email> cole.m@school.org</email>
+</student>
+
+<student number="90845873" code="3002x">
+    <student_id> 569 </student_id>
+    <first_name> Cara</first_name>
+    <last_name> Granger</last_name>
+    <email> cara.g@school.org</email>
+</student>
+
+<student number="90735822" code="3002x">
+    <student_id> 570 </student_id>
+    <first_name> Bree</first_name>
+    <last_name> Weasley</last_name>
+    <email> bree.w@school.org</email>
+</student>
+
+<student number="90147283" code="3002x">
+    <student_id> 571</student_id>
+    <first_name> Krista</first_name>
+    <last_name> Potter</last_name>
+    <email> krista.p@school.org</email>
+    <student_number>90147283 </student_number>
+    <program_code> 3002x</program_code>
+</student>
+
+<student number="90876122" code="6149x">
+    <student_id> 572 </student_id>
+    <first_name> Cassandra</first_name>
+    <last_name> Stark</last_name>
+    <email> cassandra.s@school.org</email>
+</student>
+
+<student number="90876134" code="6149x">
+    <student_id> 573 </student_id>
+    <first_name> Grace</first_name>
+    <last_name> Banner</last_name>
+    <email> grace.b@school.org</email>
+</student>
+
+<student number="90877100" code="3013x">
+    <student_id> 574 </student_id>
+    <first_name> Paul</first_name>
+    <last_name> Romanov</last_name>
+    <email> paul.r@school.org</email>
+</student>
+
+<student number="90115433" code="3013x">
+    <student_id> 575 </student_id>
+    <first_name> Nina</first_name>
+    <last_name> Parker</last_name>
+    <email> nina.p@school.org</email>
+</student>
+
+</class>

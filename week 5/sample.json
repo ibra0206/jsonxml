@@ -1,0 +1,84 @@
+{
+	"students": [{
+			"studentId": 566,
+			"firstName": "Alex",
+			"lastName": "Mckenna",
+			"email": "alex.m@school.org",
+			"studentNumber": 90234555,
+			"programCode": "1515x"
+		},
+		{
+			"studentId": 567,
+			"firstName": "Devon",
+			"lastName": "Stephens",
+			"email": "devon.s@school.org",
+			"studentNumber": 90654777,
+			"programCode": "1515x"
+
+		},
+		{
+			"studentId": 568,
+			"firstName": "Cole",
+			"lastName": "Moir",
+			"email": "cole.m@school.org",
+			"studentNumber": 90121443,
+			"programCode": "1515x"
+		},
+		{
+			"studentId": 569,
+			"firstName": "Cara",
+			"lastName": "Granger",
+			"email": "cara.g@school.org",
+			"studentNumber": 90845873,
+			"programCode": "3002x"
+		},
+		{
+			"studentId": 570,
+			"firstName": "Bree",
+			"lastName": "Weasley",
+			"email": "bree.w@school.org",
+			"studentNumber": 90735822,
+			"programCode": "3002x"
+		},
+		{
+			"studentId": 571,
+			"firstName": "Krista",
+			"lastName": "Potter",
+			"email": "krista.p@school.org",
+			"studentNumber": 90147283,
+			"programCode": "3002x"
+		},
+		{
+			"studentId": 572,
+			"firstName": "Cassandra",
+			"lastName": "Stark",
+			"email": "cassandra.s@school.org",
+			"studentNumber": 90876122,
+			"programCode": "6149x"
+		},
+		{
+			"studentId": 573,
+			"firstName": "Grace",
+			"lastName": "Banner",
+			"email": "grace.b@schhol.org",
+			"studentNumber": 90876134,
+			"programCode": "6149x"
+		},
+		{
+			"studentId": 574,
+			"firstName": "Paul",
+			"lastName": "Romanov",
+			"email": "paul.r@school.org",
+			"studentNumber": 90877100,
+			"programCode": "3013x"
+		},
+		{
+			"studentId": 575,
+			"firstName": "Nina",
+			"lastName": "Parker",
+			"email": "nina.p@school.org",
+			"studentNumber": 90115433,
+			"programCode": "3013x"
+		}
+	]
+}
